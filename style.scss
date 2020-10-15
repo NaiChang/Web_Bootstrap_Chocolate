@@ -1,0 +1,17 @@
+body {
+    background-color: #f6b552;
+}
+
+.carousel-item {
+    height: 620px;
+}
+
+.card {
+    height: 620px;
+
+    img {
+        height: 100%;
+        // img 適用的 background-size
+        object-fit: cover;
+    }
+}
