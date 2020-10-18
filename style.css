@@ -6,11 +6,11 @@ body {
   height: 620px;
 }
 
-.card {
+.card-info {
   height: 620px;
 }
 
-.card img {
+.card-info img {
   height: 100%;
   -o-object-fit: cover;
      object-fit: cover;
